@@ -22,10 +22,10 @@ Figura 1: Diagrama de Blocos
 
 ## Pinagens:
 ### MOTOR0:
-### MAH: PC9 -> PWM: TIM8_CH4
-### MAL: PE5 -> GPIO_OUT
-### MBH PC7 -> PWM: TIM8_CH2
-### MBL: PC13 -> GPIO_OUT
+#### MAH: PC9 -> PWM: TIM8_CH4
+#### MAL: PE5 -> GPIO_OUT
+#### MBH PC7 -> PWM: TIM8_CH2
+#### MBL: PC13 -> GPIO_OUT
 #### ENCA: PB4 -> TIM3_CH1: Encoder Mode
 #### ENCB: PB5 -> TIM3_CH2: Encoder Mode
 
